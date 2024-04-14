@@ -185,7 +185,7 @@ public class ReportClient {
             List<String> vendorsSalesLines = new ArrayList<>();
             for (Map<String, Integer> vendorTotalSales : vendorsTotalSalesList) {
                 Map.Entry<String, Integer> entry = vendorTotalSales.entrySet().iterator().next();
-                vendorsSalesLines.add(entry.getKey() + ";" + entry.getValue());
+                vendorsSalesLines.add(entry.getKey() + ";" + entry.getValue() + ",");
             }
 
             // Generate CSV file
