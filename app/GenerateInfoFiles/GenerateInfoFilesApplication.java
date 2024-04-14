@@ -9,7 +9,8 @@ import app.GenerateInfoFiles.src.GenerateInfoFiles;
 public class GenerateInfoFilesApplication {
     /**
      * The main method serves as the entry point to the application.
-     * It creates an instance of GenerateInfoFiles, generates sample product, vendor, and sales information,
+     * It creates an instance of GenerateInfoFiles, generates sample product,
+     * vendor, and sales information,
      * and demonstrates their usage.
      *
      * @param args The command line arguments (not used in this application).
@@ -25,6 +26,12 @@ public class GenerateInfoFilesApplication {
         infoFilesClient.createSalesManInfoFile(10);
 
         // Generate sample sales information for a specific vendor
-        infoFilesClient.createSalesMenFile(8, "Aura", 2371218292L);
+        infoFilesClient.createSalesMenFile(8, "Julienne", 1211388539l);
+        infoFilesClient.createSalesMenFile(8, "Niamh", 2667621439l);
+        infoFilesClient.createSalesMenFile(8, "Aryiah", 3621336024l);
+        infoFilesClient.createSalesMenFile(8, "Melody", 7269812164l);
+        infoFilesClient.createSalesMenFile(8, "Enmanuel", 1360346721l);
+        infoFilesClient.createSalesMenFile(8, "Zac", 948968862l);
+
     }
 }
