@@ -1,0 +1,27 @@
+1. Lo aprendido durante el desarrollo del proyecto.
+
+Durante este proyecto se destaca lo aprendido:
+
+- Manejo de List, Hashmap y StringBuilder
+- LLamada a APIS externas desde JAVA
+- Logica de Negocio
+- Lectura y escritura de archivos y manejo del directorio
+- Lectura de datos JSON en JAVA
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y
+practicados durante el desarrollo del proyecto.
+
+Este proyecto nos aporta una gran cantidad de conocimiento para aplicaciones en el ambito laboral, en un mundo donde el 99% de las aplicaciones manejan este tipo de ejercicios de carge y escritura de datos, llamadas a datos externos y una logica de negocio profunda para lograr el software requerido, es un aporte muy valioso que nos abre la capacidad de poder resolver estos problemas futuros de una manera mas sencilla, algunos ejemplos podrian ser los siguientes:
+
+ - Gestores documentales
+ - Ecommerce
+ - ERPs donde los reportes y manejo de datos en CSV como lo fue este proyecto es fundamental.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto.
+ 
+Entre las principales dificultades que se nos presentaron en el proyecto podemos denotar:
+
+ - Leer datos JSON e interpretarlos en JAVA
+ - Organizar los datos de manera que podamos asociar las ventas al id del vendedor (Aca empleamos y aprendimos mejor el uso del hashmap)
+ - Manejo del directorio del proyecto y las ruta relativas para la creacion de carpetas y los archivos
+ - Refactorizacion e implementacion de codigo limpio y mantenible (Sobre todo en la implementacion de la clase y el metodo de reportes)
